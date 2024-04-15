@@ -6,7 +6,7 @@ You can easily send otp To any phone number.
 <br>
 <br>
 
-<img src="https://files.catbox.moe/58seed.png" alt="Paris" class="center">
+<img src="https://files.catbox.moe/0m4rd7.png" alt="Paris" class="center">
 
 
 
