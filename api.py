@@ -1,4 +1,4 @@
-__author__ = "Jatin KUmar Tiwari"
+__author__ = "Jatin Tiwari"
 __copyright__ = "Copyright (C) 2024"
 __license__ = "Public Domain"
 __version__ = "1.0"
@@ -35,14 +35,14 @@ def to(s):
 
 to(
     f"""{G}|{C}=============================================={G}|
-{G}| Creator     :  @jatinkumartiwari{G}              |
+{G}| Creator     :  @Jatin Tiwari{G}              |
 {G}| {Y}Tools      :  Truecaller Call and Sms Api{G}  |
 {G}| {PN}Expire     :  LIFETIME {G}                   |
-{G}| {W}Link       :  github.com/jatinkumartiwari {G} |
+{G}| {W}Link       :  github.com/jatintiwari0 {G} |
 {G}|{C}=============================================={G}|"""
 )
 
-webbrowser.open("https://github.com/jatinkumartiwari")
+webbrowser.open("https://github.com/jatintiwari0")
 
 import requests,random
 NUMS = '1234567890'
