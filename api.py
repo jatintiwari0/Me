@@ -35,7 +35,7 @@ def to(s):
 
 to(
     f"""{G}|{C}=============================================={G}|
-{G}| Creator     :  @Jatin Tiwari{G}              |
+{G}| Creator     :  Jatin Tiwari{G}              |
 {G}| {Y}Tools      :  Truecaller Call and Sms Api{G}  |
 {G}| {PN}Expire     :  LIFETIME {G}                   |
 {G}| {W}Link       :  github.com/jatintiwari0 {G} |
